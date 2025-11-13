@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979011566073",
+    "project_id": "fir-notes-c86b7",
+    "storage_bucket": "fir-notes-c86b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979011566073:android:4866a6f421ec65e2e12528",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notes_app_tokareva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_z7sqJkRrN_IE5uMc9QBv2GMJCr1f7e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
